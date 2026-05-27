@@ -1,2 +1,2 @@
 # Git_Github
-I achieved badges from this file 
+I achieved badges from this folder

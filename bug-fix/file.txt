@@ -4,9 +4,6 @@ one more bug detected
 
 hellow world jdvebrvberjc zdk csbc jsk,xjg asjdh   ewrb
 
-<<<<<<< HEAD
-
-2025 footer note added
-=======
 2026 footer note add
->>>>>>> bug-fix
+
+This is new feature i have added name buttton

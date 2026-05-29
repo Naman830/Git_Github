@@ -6,4 +6,8 @@ hellow world jdvebrvberjc zdk csbc jsk,xjg asjdh   ewrb
 
 2026 footer note add
 
+<<<<<<< HEAD
 This is new feature i have added name buttton
+=======
+This neew feature name is href tag
+>>>>>>> bug-fix
